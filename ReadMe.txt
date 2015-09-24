@@ -1,0 +1,1 @@
+This a simple Log file using a function.
